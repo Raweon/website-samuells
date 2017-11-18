@@ -1,0 +1,14 @@
+/* basic body setting */
+body {
+  text-align: center;
+  text-decoration: none;
+  float: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+/*mobile setting */
